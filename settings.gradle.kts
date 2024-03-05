@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Hilt Dagger Multimodule project"
 include(":app")
 include(":domain")
+include(":data")
